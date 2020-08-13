@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hi, I'm Bryn McGowan.
+![Bryn McGowan](img/bryn_prof_pic.jpeg){#id .class width=25% height=25%}
+</center>
+  
+I'll come back to this paragraph when I'm more creative.

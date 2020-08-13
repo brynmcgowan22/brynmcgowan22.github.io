@@ -1,0 +1,12 @@
+name: "bryns-first-website"
+output_dir: "."
+navbar:
+  title: "Bryn's Cool Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "GIS Work"
+      href: geog176A.html
+output:
+  html_document:
+    theme: cosmo
