@@ -4,8 +4,10 @@ title: "Projects"
 
 In the summer of 2020 I took a class GIS course based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
 
-## [Building a project website]()
+## [Building a project website](https://github.com/brynmcgowan22?tab=repositories)
 
 - In this assignment we built a static users site with Github Pages 
 - Includes a github repo for access to all the code.
 - Look at how high quality my work is!
+
+`r icon::fa("rocket", size = 5)`

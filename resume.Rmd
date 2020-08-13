@@ -1,0 +1,10 @@
+---
+title: "Bryn McGowan"
+output: html_document
+---
+
+## Education
+* *2020* Fourth year Geography major at UCSB
+
+## Experience
+* *2020-2021* UCSB Women's Swim Team Captain

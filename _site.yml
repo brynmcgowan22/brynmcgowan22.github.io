@@ -1,13 +1,17 @@
 name: "bryns-first-website"
 output_dir: "."
 navbar:
-  title: "Bryn's Cool Website"
+  title: "Bryn McGowan"
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-globe-americas
       href: geog176A.html
+    - text: "Resume/CV"
+      icon: fa-paperclip
+      href: resume.html
   right:
     - icon: fa-github
       href: https://github.com/brynmcgowan22

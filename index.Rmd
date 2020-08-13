@@ -4,12 +4,7 @@ title: "About Me"
   
 <center>
 # Hi, I'm Bryn McGowan.
+I'm a third year geography major at UCSB.  I was originally a bio major but changed to geography because I hate chem.  I'm from the East Bay Area but live in Isla Vista for school.  I enjoy swimming and rock climbing.  
+
 ![Bryn McGowan](img/bryn_prof_pic.jpeg){#id .class width=25% height=25%}
 </center>
-I'll come back to this paragraph when I'm more creative.
-
-<i class="fas fa-home"></i> 
-
-`r icon::fa("rocket", color = "blue", size = 5)`
-
-`r fa_globe(color = "green", size =5)` `r fa_plus(color = "black", size =2)` `r fa_r_project(color = "blue", size =5)`  `r fa_equals(color = "black", size =2)` `r fa_heart(color = "red", size =5, animate = "spin")`
