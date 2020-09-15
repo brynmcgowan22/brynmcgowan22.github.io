@@ -1,10 +1,50 @@
 ---
-title: "Bryn McGowan"
+title: "CV"
 output: html_document
 ---
+# Bryn McGowan
+brynmcgowan@ucsb.edu | https://github.com/brynmcgowan22
+
+*****
 
 ## Education
-* *2020* Fourth year Geography major at UCSB
+
+*****
+
+### **University of California, Santa Barbara**
+ - Fourth Year Geography Major
 
 ## Experience
-* *2020-2021* UCSB Women's Swim Team Captain
+
+*****
+
+### **Team Captain, UCSB Women's Swim Team**
+ - Organized formal and informal meetings to facilitate and improve communication among team members
+ - Committed approximately 30 hours per week to training, meetings, film study, travel, and competitions
+while maintaining full course load
+ - Led tours of facilities to prospective student-athletes and their families
+
+*****
+
+### **Cashier, Tender Greens**
+ - Worked to ensure a positive and hassle-free customer experience.
+ - Brought forth a self-motivated attitude, as well as the ability to collaborate.
+ - Carefully and accurately monitored and recorded all refrigerated items ready for stocking.
+ - Rotated three different positions including order taking, cashier, and managing food prep.
+
+*****
+
+### **Sales Associate, NorCal Swim Shop**
+ - Handled all merchandise with care and packed customer bags neatly.
+ - Maintained up to date knowledge of all retail promotions.
+ - Carefully and accurately monitored and recorded all items ready for stocking.
+ - Provided relevant information and suggestions regarding suit orders and purchases.
+ - Recorded and processed all orders in an organized and accurate manner.
+
+*****
+
+### **Junior Coach, Walnut Creek Swim Club**
+ - Assisted the Head Coach with all tasks and implementation of drills.
+ - Assisted the Head Coach with daily tasks and program planning.
+ - Worked with children aged 5-10 with various levels of swimming abilities
+
